@@ -1,0 +1,14 @@
+.superhero-card{
+    width: 300px;
+}
+
+.img{
+    width: 300px;
+}
+.superhero-name{
+    font-size: larger;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    
+}
